@@ -1,0 +1,6 @@
+{
+  "name": "DrukLink — Bhutan Job & Freelance Portal",
+  "description": "Every job in Bhutan in one place. Bridging job seekers, freelancers, and employers across all twenty dzongkhags with clear tasks, deadlines, and one-tap applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
